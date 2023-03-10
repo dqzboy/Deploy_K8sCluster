@@ -1,6 +1,8 @@
 # 二进制部署K8s高可用集群
 Deploying Highly Available Kubernetes Cluster using Binary Installation
 
+跟着本文档让你从0到1部署一套完整的高可用、生产可用的K8s集群
+
 [![image](https://img.shields.io/badge/google-kubernetes-blue.svg)](https://kubernetes.io/) 
 
 [![image](https://img.shields.io/badge/used-docker-blue.svg)](https://www.docker.com/) [![image](https://img.shields.io/badge/used-Prometheus-red.svg)](https://prometheus.io/) [![image](https://img.shields.io/badge/used-etcd-blue.svg)](https://etcd.io/) [![image](https://img.shields.io/badge/used-Grafana-orange.svg)](https://grafana.com)
