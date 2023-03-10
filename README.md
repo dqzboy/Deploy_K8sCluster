@@ -1,6 +1,10 @@
 # 二进制部署K8s高可用集群
 Deploying Highly Available Kubernetes Cluster using Binary Installation
 
+[![image](https://img.shields.io/badge/google-kubernetes-blue.svg)](https://kubernetes.io/) 
+
+[![image](https://img.shields.io/badge/used-docker-blue.svg)](https://www.docker.com/) [![image](https://img.shields.io/badge/used-Prometheus-red.svg)](https://prometheus.io/) [![image](https://img.shields.io/badge/used-etcd-blue.svg)](https://etcd.io/) [![image](https://img.shields.io/badge/used-Grafana-orange.svg)](https://grafana.com)
+
 ## 第一章：角色分配划分
 - [一、角色规划和分配 ](deploydoc/一、角色规划和分配.md)
 
