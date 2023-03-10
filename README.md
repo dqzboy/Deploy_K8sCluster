@@ -16,7 +16,7 @@ Deploying Highly Available Kubernetes Cluster using Binary Installation
 ## 第三章：CA根证书创建
 - [三、创建CA根证书和秘钥 ](deploydoc/三、创建CA根证书和秘钥.md)
 
-
+## 持续更新中...
 
 ## 说明
 本专题并不用于商业用途，转载请注明本专题地址。<br>
