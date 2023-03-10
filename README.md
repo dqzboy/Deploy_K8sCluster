@@ -34,7 +34,7 @@ width="800"  height="3">
 
 
 ## 第四章：部署ETCD集群
-- [四、部署ETCD集群.md ](deploydoc/四、部署ETCD集群.md)
+- [四、部署ETCD集群 ](deploydoc/四、部署ETCD集群.md)
 
 ## 持续更新中...
 
