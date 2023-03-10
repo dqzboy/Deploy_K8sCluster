@@ -3,9 +3,19 @@ Deploying Highly Available Kubernetes Cluster using Binary Installation
 
 跟着本文档让你从0到1部署一套完整的高可用、生产可用的K8s集群
 
-[![image](https://img.shields.io/badge/google-kubernetes-blue.svg)](https://kubernetes.io/) 
+[![image](https://img.shields.io/badge/CNCF-Kubernetes-blue)](https://kubernetes.io/) 
+[![image](https://img.shields.io/badge/%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E6%97%B6-containerd-orange)](https://containerd.io/)
+[![image](https://img.shields.io/badge/%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E6%97%B6-Docker-brightgreen)](https://www.docker.com/) 
+[![image](https://img.shields.io/badge/%E5%88%86%E5%B8%83%E5%BC%8FKV%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F-ETCD-orange)](https://etcd.io/)
+[![image](https://img.shields.io/badge/TCL-CFSSL-%2320a0ff)](https://github.com/cloudflare/cfssl)
+[![image](https://img.shields.io/badge/Network-Calico-%23f68245)](https://github.com/projectcalico/calico)
 
-[![image](https://img.shields.io/badge/used-docker-blue.svg)](https://www.docker.com/) [![image](https://img.shields.io/badge/used-Prometheus-red.svg)](https://prometheus.io/) [![image](https://img.shields.io/badge/used-etcd-blue.svg)](https://etcd.io/) [![image](https://img.shields.io/badge/used-Grafana-orange.svg)](https://grafana.com)
+&nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
+<br />
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kite+One&duration=2000&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=Deploying+Highly+Available+Kubernetes+Cluster+" alt="Typing SVG" /></a>
+</div>
 
 ## 第一章：角色分配划分
 - [一、角色规划和分配 ](deploydoc/一、角色规划和分配.md)
