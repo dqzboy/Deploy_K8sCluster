@@ -14,7 +14,8 @@ Deploying Highly Available Kubernetes Cluster using Binary Installation
 <br />
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kite+One&duration=2000&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=Deploying+Highly+Available+Kubernetes+Cluster+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=500&height=80&lines=Deploying+Highly+Available+Kubernetes+Cluster" alt="Typing SVG" /></a>
+
 </div>
 
 ## 第一章：角色分配划分
