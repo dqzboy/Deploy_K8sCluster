@@ -36,6 +36,11 @@ width="800"  height="3">
 ## 第四章：部署ETCD集群
 - [四、部署ETCD集群 ](deploydoc/四、部署ETCD集群.md)
 
+
+## 第五章：部署kubectl命令行工具
+- [五、部署kubectl命令行工具 ](deploydoc/五、部署kubectl命令行工具.md)
+
+
 ## 持续更新中...
 
 ## 说明
