@@ -1,4 +1,3 @@
-# 二进制部署K8s高可用集群
 <div style="text-align: center"></div>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/42825450/225513881-67ffbdf1-dcda-495d-8c19-d0c6fd9eccc9.png" width="250px" height="220px">
