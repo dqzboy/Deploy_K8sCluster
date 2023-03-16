@@ -1,7 +1,12 @@
 # 二进制部署K8s高可用集群
-Deploying Highly Available Kubernetes Cluster using Binary Installation
+<div style="text-align: center"></div>
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/42825450/225513881-67ffbdf1-dcda-495d-8c19-d0c6fd9eccc9.png" width="250px" height="220px">
+      <br>
+      <i>Deploying Highly Available Kubernetes Cluster using Binary Installation.</i>
+  </p>
+</div>
 
-跟着本文档让你从0到1部署一套完整的高可用、生产可用的K8s集群
 
 [![image](https://img.shields.io/badge/CNCF-Kubernetes-blue)](https://kubernetes.io/) 
 [![image](https://img.shields.io/badge/%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E6%97%B6-containerd-orange)](https://containerd.io/)
@@ -9,7 +14,7 @@ Deploying Highly Available Kubernetes Cluster using Binary Installation
 [![image](https://img.shields.io/badge/%E5%88%86%E5%B8%83%E5%BC%8FKV%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F-ETCD-orange)](https://etcd.io/)
 [![image](https://img.shields.io/badge/TCL-CFSSL-%2320a0ff)](https://github.com/cloudflare/cfssl)
 [![image](https://img.shields.io/badge/Network-Calico-%23f68245)](https://github.com/projectcalico/calico)
-
+> 跟着本文档带你从0到1部署一套完整的、高可用、生产可用的K8s集群
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
 <br />
 
