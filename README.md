@@ -13,7 +13,9 @@
 [![image](https://img.shields.io/badge/%E5%88%86%E5%B8%83%E5%BC%8FKV%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F-ETCD-orange)](https://etcd.io/)
 [![image](https://img.shields.io/badge/TCL-CFSSL-%2320a0ff)](https://github.com/cloudflare/cfssl)
 [![image](https://img.shields.io/badge/Network-Calico-%23f68245)](https://github.com/projectcalico/calico)
-> 跟着本文档带你通过原始二进制方式，从0到1部署一套完整的、高可用、生产可用的K8s集群
+> 跟着本文档带你通过原始二进制方式，从0到1部署一套完整的、高可用、生产可用的K8s集群<br>
+> Follow this document to deploy a complete, highly available, production-ready K8s cluster from scratch using the raw binary approach, from 0 to 1. <br>
+
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
 <br />
 
