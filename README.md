@@ -47,6 +47,10 @@ width="800"  height="3">
 - [五、部署kubectl命令行工具 ](deploydoc/五、部署kubectl命令行工具.md)
 
 
+## 第六章：部署Master节点
+- [六、部署Master节点 ](deploydoc/六、部署Master节点)
+
+
 ## 持续更新中...
 
 ## 说明
