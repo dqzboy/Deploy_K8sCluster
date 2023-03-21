@@ -50,7 +50,7 @@ width="800"  height="3">
 ## 第六章：部署Master节点
 - [六、部署Master节点 ](deploydoc/六、部署Master节点)
   - [1、部署环境说明 ](deploydoc/六、部署Master节点/1、部署环境说明.md)
-  - [2、集群节点高可用访问 kube-apiserver ](deploydoc/六、部署Master节点/2、集群节点高可用访问 kube-apiserver.md)
+  - [2、集群节点高可用访问kube-apiserver ](deploydoc/六、部署Master节点/2、集群节点高可用访问kube-apiserver.md)
 
 ## 持续更新中...
 
