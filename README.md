@@ -53,7 +53,8 @@ width="800"  height="3">
   - [2、集群节点高可用访问kube-apiserver ](deploydoc/六、部署Master节点/2、集群节点高可用访问kube-apiserver.md)
   - [3、部署高可用kube-apiserver集群 ](deploydoc/六、部署Master节点/3、部署高可用kube-apiserver集群.md)
   - [4、部署高可用kube-controller-manager集群 ](deploydoc/六、部署Master节点/4、部署高可用kube-controller-manager集群.md)
-  - [5、部署高可用 kube-scheduler 集群 ](deploydoc/六、部署Master节点/5、部署高可用 kube-scheduler 集群.md)
+  - [5、部署高可用kube-scheduler 集群 ](deploydoc/六、部署Master节点/5、部署高可用kube-scheduler集群.md)
+
 
 ## 持续更新中...
 
