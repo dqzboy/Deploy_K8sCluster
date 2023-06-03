@@ -58,6 +58,7 @@ width="800"  height="3">
 ## 第七章：部署Worker节点
 - [七、部署Worker节点 ](deploydoc/七、部署Worker节点)
   - [1、部署环境说明 ](deploydoc/七、部署Worker节点/1、部署环境说明.md)
+  - [2、部署containerd ](deploydoc/七、部署Worker节点/2、部署containerd.md)
 
 ## 持续更新中...
 
