@@ -55,6 +55,9 @@ width="800"  height="3">
   - [4、部署高可用kube-controller-manager集群 ](deploydoc/六、部署Master节点/4、部署高可用kube-controller-manager集群.md)
   - [5、部署高可用kube-scheduler 集群 ](deploydoc/六、部署Master节点/5、部署高可用kube-scheduler集群.md)
 
+## 第七章：部署Worker节点
+- [七、部署Worker节点 ](deploydoc/七、部署Worker节点)
+  - [1、部署环境说明 ](deploydoc/七、部署Worker节点/1、部署环境说明.md)
 
 ## 持续更新中...
 
