@@ -65,6 +65,8 @@ width="800"  height="3">
   - [3、部署kubelet组件 ](deploydoc/七、部署Worker节点/3、部署kubelet组件.md)
   - [4、部署kube-proxy组件 ](deploydoc/七、部署Worker节点/4、部署kube-proxy组件.md)
 
+## 第八章：部署网络插件
+
 ## 持续更新中...
 
 ## 说明
