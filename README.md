@@ -63,6 +63,7 @@ width="800"  height="3">
   - [1、部署环境说明 ](deploydoc/七、部署Worker节点/1、部署环境说明.md)
   - [2、部署containerd ](deploydoc/七、部署Worker节点/2、部署containerd.md)
   - [3、部署kubelet组件 ](deploydoc/七、部署Worker节点/3、部署kubelet组件.md)
+  - [4、部署kube-proxy组件 ](deploydoc/七、部署Worker节点/4、部署kube-proxy组件.md)
 
 ## 持续更新中...
 
