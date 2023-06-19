@@ -69,6 +69,7 @@ width="800"  height="3">
 ## 第八章：部署网络插件
 - [八、部署网络插件 ](deploydoc/八、部署网络插件)
   -  [部署网络插件 ](deploydoc/八、部署网络插件/八、部署网络插件.md)
+  -  [部署Cilium替代kube-proxy ](deploydoc/八、部署网络插件/部署Cilium替代kube-proxy.md)
 
 ## 九、验证集群状态
 - [九、验证集群状态 ](deploydoc/九、验证集群状态)
