@@ -27,43 +27,44 @@
 width="800"  height="3">
 </div>
 
-## 部署说明
-目前本文档是基于K8s 1.25 版本进行部署和更新梳理，如果你部署是其他K8s版本，请阅读K8s的版本[更新日志](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.25.md)，确保与本文档中组件所使用的参数可以在你所部署的版本之上运行！
+## 部署说明 | deployment instructions
+目前本文档是基于K8s 1.25 版本进行部署和更新梳理，如果你部署是其他K8s版本，请阅读K8s的版本[更新日志](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.25.md)，确保与本文档中组件所使用的参数可以在你所部署的版本之上运行！<br>
+Currently, this document is based on the deployment and update process using K8s version 1.25. If you are deploying with a different K8s version, please refer to the version update log of K8s to ensure that the parameters used by the components in this document can operate on the version you are deploying!
 
-## 第一章：角色分配划分
-- [一、角色规划和分配 ](deploydoc/一、角色规划和分配.md)
-
-
-## 第二章：系统初始化
-- [二、系统初始化 ](deploydoc/二、系统初始化.md)
+## 第一章：角色分配划分 | Chapter 1: Role Assignment and Division
+- [一、角色规划和分配 | 一、Role Planning and Assignment ](deploydoc/一、角色规划和分配.md)
 
 
-## 第三章：CA根证书创建
-- [三、创建CA根证书和秘钥 ](deploydoc/三、创建CA根证书和秘钥.md)
+## 第二章：系统初始化 | Chapter 2: System Initialization
+- [二、系统初始化 | 二、system initialization ](deploydoc/二、系统初始化.md)
 
 
-## 第四章：部署ETCD集群
-- [四、部署ETCD集群 ](deploydoc/四、部署ETCD集群.md)
+## 第三章：CA根证书创建 | Chapter 3: CA Root Certificate Creation
+- [三、创建CA根证书和秘钥 | 三、Create CA root certificate and secret key ](deploydoc/三、创建CA根证书和秘钥.md)
 
 
-## 第五章：部署kubectl命令行工具
-- [五、部署kubectl命令行工具 ](deploydoc/五、部署kubectl命令行工具.md)
+## 第四章：部署ETCD集群 | Chapter 4: Deploying an etcd cluster
+- [四、部署ETCD集群 | 四、Deploying an etcd cluster ](deploydoc/四、部署ETCD集群.md)
 
 
-## 第六章：部署Master节点
-- [六、部署Master节点 ](deploydoc/六、部署Master节点)
-  - [1、部署环境说明 ](deploydoc/六、部署Master节点/1、部署环境说明.md)
-  - [2、集群节点高可用访问kube-apiserver ](deploydoc/六、部署Master节点/2、集群节点高可用访问kube-apiserver.md)
-  - [3、部署高可用kube-apiserver集群 ](deploydoc/六、部署Master节点/3、部署高可用kube-apiserver集群.md)
-  - [4、部署高可用kube-controller-manager集群 ](deploydoc/六、部署Master节点/4、部署高可用kube-controller-manager集群.md)
-  - [5、部署高可用kube-scheduler 集群 ](deploydoc/六、部署Master节点/5、部署高可用kube-scheduler集群.md)
+## 第五章：部署kubectl命令行工具 | Chapter 5: Deploying the kubectl command-line tool
+- [五、部署kubectl命令行工具 | 五、Deploying the kubectl command-line tool ](deploydoc/五、部署kubectl命令行工具.md)
 
-## 第七章：部署Worker节点
-- [七、部署Worker节点 ](deploydoc/七、部署Worker节点)
-  - [1、部署环境说明 ](deploydoc/七、部署Worker节点/1、部署环境说明.md)
-  - [2、部署containerd ](deploydoc/七、部署Worker节点/2、部署containerd.md)
-  - [3、部署kubelet组件 ](deploydoc/七、部署Worker节点/3、部署kubelet组件.md)
-  - [4、部署kube-proxy组件 ](deploydoc/七、部署Worker节点/4、部署kube-proxy组件.md)
+
+## 第六章：部署Master节点 | Chapter 6: Deploying the Master Node
+- [六、部署Master节点 | 六、Deploying the Master Node ](deploydoc/六、部署Master节点)
+  - [1、部署环境说明 | 1、Deployment environment description ](deploydoc/六、部署Master节点/1、部署环境说明.md)
+  - [2、集群节点高可用访问kube-apiserver | 2、Highly available access to the kube-apiserver from resource nodes. ](deploydoc/六、部署Master节点/2、集群节点高可用访问kube-apiserver.md)
+  - [3、部署高可用kube-apiserver集群 | 3、Deploy a high-availability kube-apiserver cluster. ](deploydoc/六、部署Master节点/3、部署高可用kube-apiserver集群.md)
+  - [4、部署高可用kube-controller-manager集群 | 4、Deploy a high-availability kube-controller-manager cluster. ](deploydoc/六、部署Master节点/4、部署高可用kube-controller-manager集群.md)
+  - [5、部署高可用kube-scheduler 集群 | 5、Deploy a high-availability kube-scheduler cluster. ](deploydoc/六、部署Master节点/5、部署高可用kube-scheduler集群.md)
+
+## 第七章：部署Worker节点 | Deploy Worker Nodes
+- [七、部署Worker节点 | 七、Deploy Worker Nodes ](deploydoc/七、部署Worker节点)
+  - [1、部署环境说明 | 1、Deployment Environment Description ](deploydoc/七、部署Worker节点/1、部署环境说明.md)
+  - [2、部署containerd |2、Deploy containerd](deploydoc/七、部署Worker节点/2、部署containerd.md)
+  - [3、部署kubelet组件 | 3、Deploy kubelet Component ](deploydoc/七、部署Worker节点/3、部署kubelet组件.md)
+  - [4、部署kube-proxy组件 | 4、Deploy kube-proxy Component ](deploydoc/七、部署Worker节点/4、部署kube-proxy组件.md)
   - [部署docker运行时(仅作参考) ](deploydoc/七、部署Worker节点/部署docker运行时(仅作参考).md)
 
 ## 第八章：部署网络插件
