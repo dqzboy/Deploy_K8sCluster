@@ -85,8 +85,6 @@ Currently, this document is based on the deployment and update process using K8s
 本专题仅供学习和交流使用，请勿用于商业用途，并在转载时注明本专题地址。<br>
 由于本人水平有限，文中可能存在遗漏或错误之处，敬请指正并不吝赐教，感激不尽。<br>
 
-## 推荐
-更多学习教程请关注 [浅时光博客](https://www.dqzboy.com/)
 
 ## 赞助
 如果你觉得这个项目对你有帮助，请给我点个Star。并且情况允许的话，可以给我一点点支持，总之非常感谢支持😊
