@@ -72,11 +72,11 @@ Currently, this document is based on the deployment and update process using K8s
   -  [部署网络插件 ](deploydoc/八、部署网络插件/八、部署网络插件.md)
   -  [部署Cilium替代kube-proxy ](deploydoc/八、部署网络插件/部署Cilium替代kube-proxy.md)
 
-## 九、验证集群状态
+## 第九章、验证集群状态
 - [九、验证集群状态 ](deploydoc/九、验证集群状态)
   -  [验证集群状态 ](deploydoc/九、验证集群状态/验证集群状态.md)
 
-## 十、部署集群插件
+## 第十章、部署集群插件
 - [十、部署集群插件 ](deploydoc/十、部署集群插件)
   -  [1、部署Coredns插件 ](deploydoc/十、部署集群插件/1、部署Coredns插件.md)
   -  [2、部署 Dashboard 插件 ](deploydoc/十、部署集群插件/2、部署Dashboard插件.md)
