@@ -18,7 +18,12 @@
 
 &nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
 <br />
-
+<details>
+<summary>点击这里加入技术交流群</summary>
+<div align="center">
+<img src="https://github.com/dqzboy/Deploy_K8sCluster/assets/42825450/2139620a-c996-4e41-a6b2-e5605eb7512f" width="800px">
+</div>
+</details>
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Deploying+Highly+Available+Kubernetes+Cluster)](https://git.io/typing-svg)
