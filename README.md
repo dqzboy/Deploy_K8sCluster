@@ -36,6 +36,9 @@ width="800"  height="3">
 目前本文档是基于K8s 1.25 版本进行部署和更新梳理，如果你部署是其他K8s版本，请阅读K8s的版本[更新日志](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.25.md)，确保与本文档中组件所使用的参数可以在你所部署的版本之上运行！<br>
 Currently, this document is based on the deployment and update process using K8s version 1.25. If you are deploying with a different K8s version, please refer to the version update log of K8s to ensure that the parameters used by the components in this document can operate on the version you are deploying!
 
+- 关于在国内如何解决镜像下载问题：
+  - 参考项目：[自建Docker、K8s镜像加速服务](https://github.com/dqzboy/Docker-Proxy)
+
 ## 第一章：角色分配划分 | Chapter 1: Role Assignment and Division
 - [一、角色规划和分配 | 一、Role Planning and Assignment ](deploydoc/一、角色规划和分配.md)
 
