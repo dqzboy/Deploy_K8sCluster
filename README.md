@@ -16,8 +16,9 @@
 > 跟着本文档带你通过原始二进制方式，从0到1部署一套完整的、高可用、生产可用的K8s集群<br>
 > Follow this document to deploy a complete, highly available, production-ready K8s cluster from scratch using the raw binary approach, from 0 to 1. <br>
 
-&nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)*
+&nbsp; &nbsp; *[View My Blog](https://www.dqzboy.com/)* ｜ [QQ 交流频道](https://pd.qq.com/s/9q92s709c)
 <br />
+
 <details>
 <summary>点击这里加入技术交流群</summary>
 <div align="center">
