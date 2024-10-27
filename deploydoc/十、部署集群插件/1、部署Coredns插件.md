@@ -15,7 +15,6 @@
 ```shell
 ]# kubectl get all -n kube-system -l k8s-app=kube-dns
 ```
-![image](https://github.com/dqzboy/Deploy_K8sCluster/assets/42825450/bf1a6f00-156f-42c1-9680-6165090742cf)
 
 ## 4、检查Pod之间是否可以解析
 ### 4.1：创建一个Nginx Pod资源
