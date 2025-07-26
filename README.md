@@ -89,16 +89,61 @@ Currently, this document is based on the deployment and update process using K8s
 由于本人水平有限，文中可能存在遗漏或错误之处，敬请指正并不吝赐教，感激不尽。<br>
 
 
+
+## 💌 推广
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">描述信息</th>
+      <th width="50%" align="center">图文介绍</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- 第一个广告：RackNerd -->
+    <tr>
+      <td width="50%" align="left">
+        <a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">提供高性价比的海外VPS，支持多种操作系统，适合搭建Docker代理服务。</a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/Image_2025-07-07_16-14-49.png?raw=true" alt="RackNerd" width="200" height="150">
+        </a>
+      </td>
+    </tr>
+    <!-- 第二个广告：CloudCone -->
+    <tr>
+      <td width="50%" align="left">
+        <a href="https://dqzboy.github.io/proxyui/CloudCone" target="_blank">CloudCone 提供灵活的云服务器方案，支持按需付费，适合个人和企业用户。</a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://dqzboy.github.io/proxyui/CloudCone" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/111.png?raw=true" alt="CloudCone" width="200" height="150">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+##### *Telegram Bot: [点击联系](https://t.me/WiseAidBot) ｜ E-Mail: support@dqzboy.com*
+**仅接受长期稳定运营，信誉良好的商家*
+
+
+
 ## 赞助
 如果你觉得这个项目对你有帮助，请给我点个Star。并且情况允许的话，可以给我一点点支持，总之非常感谢支持😊
 
 <table>
     <tr>
       <td width="50%" align="center"><b> Alipay </b></td>
-      <td width="50%" align="center"><b> WeChat Pay </b></td>
+      <td width="50%" align="center"><b> WeChat </b></td>
     </tr>
     <tr>
-        <td width="50%" align="center"><img src="https://github.com/dqzboy/Deploy_K8sCluster/assets/42825450/223fd099-9433-468b-b490-f9807bdd2035?raw=true"></td>
-        <td width="50%" align="center"><img src="https://github.com/dqzboy/Deploy_K8sCluster/assets/42825450/9404460f-ea1b-446c-a0ae-6da96eb459e3?raw=true"></td>
+        <td width="50%" align="center">
+            <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images@main/picture/alpay.png?raw=true" width="300" />
+        </td>
+        <td width="50%" align="center">
+            <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images@main/picture/WeChatpay.png?raw=true" width="300" />
+        </td>
     </tr>
 </table>
