@@ -1,3 +1,7 @@
+<p align="right">
+   <strong>English</strong> | <a href="./README.md">中文</a>
+</p>
+
 <div style="text-align: center"></div>
   <p align="center">
   <img src="https://user-images.githubusercontent.com/42825450/225513881-67ffbdf1-dcda-495d-8c19-d0c6fd9eccc9.png" width="250px" height="220px">
@@ -33,49 +37,49 @@ This document is based on the deployment and update process using K8s version 1.
   - Reference project: [Self-built Docker/K8s image acceleration service](https://github.com/dqzboy/Docker-Proxy)
 
 ## Chapter 1: Role Assignment and Division
-- [Role Planning and Assignment](deploydoc/一、角色规划和分配.md)
+- [Role Planning and Assignment](deploydoc-en/1-Role-Planning-and-Assignment.md)
 
 ## Chapter 2: System Initialization
-- [System Initialization](deploydoc/二、系统初始化.md)
+- [System Initialization](deploydoc-en/2-System-Initialization.md)
 
 ## Chapter 3: CA Root Certificate Creation
-- [Create CA root certificate and secret key](deploydoc/三、创建CA根证书和秘钥.md)
+- [Create CA root certificate and secret key](deploydoc-en/3-Create-CA-Root-Certificate-and-Key.md)
 
 ## Chapter 4: Deploying an etcd cluster
-- [Deploying an etcd cluster](deploydoc/四、部署ETCD集群.md)
+- [Deploying an etcd cluster](deploydoc-en/4-Deploy-ETCD-Cluster.md)
 
 ## Chapter 5: Deploying the kubectl command-line tool
-- [Deploying the kubectl command-line tool](deploydoc/五、部署kubectl命令行工具.md)
+- [Deploying the kubectl command-line tool](deploydoc-en/5-Deploy-kubectl-CLI.md)
 
 ## Chapter 6: Deploying the Master Node
-- [Deploying the Master Node](deploydoc/六、部署Master节点)
-  - [Deployment environment description](deploydoc/六、部署Master节点/1、部署环境说明.md)
-  - [Highly available access to the kube-apiserver from resource nodes](deploydoc/六、部署Master节点/2、集群节点高可用访问kube-apiserver.md)
-  - [Deploy a high-availability kube-apiserver cluster](deploydoc/六、部署Master节点/3、部署高可用kube-apiserver集群.md)
-  - [Deploy a high-availability kube-controller-manager cluster](deploydoc/六、部署Master节点/4、部署高可用kube-controller-manager集群.md)
-  - [Deploy a high-availability kube-scheduler cluster](deploydoc/六、部署Master节点/5、部署高可用kube-scheduler集群.md)
+- [Deploying the Master Node](deploydoc-en/6-Deploy-Master-Node)
+  - [Deployment environment description](deploydoc-en/6-Deploy-Master-Node/1-Deployment-Environment-Description.md)
+  - [Highly available access to the kube-apiserver from resource nodes](deploydoc-en/6-Deploy-Master-Node/2-HA-Access-to-kube-apiserver.md)
+  - [Deploy a high-availability kube-apiserver cluster](deploydoc-en/6-Deploy-Master-Node/3-Deploy-HA-kube-apiserver-Cluster.md)
+  - [Deploy a high-availability kube-controller-manager cluster](deploydoc-en/6-Deploy-Master-Node/4-Deploy-HA-kube-controller-manager-Cluster.md)
+  - [Deploy a high-availability kube-scheduler cluster](deploydoc-en/6-Deploy-Master-Node/5-Deploy-HA-kube-scheduler-Cluster.md)
 
 ## Chapter 7: Deploy Worker Nodes
-- [Deploy Worker Nodes](deploydoc/七、部署Worker节点)
-  - [Deployment Environment Description](deploydoc/七、部署Worker节点/1、部署环境说明.md)
-  - [Deploy containerd](deploydoc/七、部署Worker节点/2、部署containerd.md)
-  - [Deploy kubelet Component](deploydoc/七、部署Worker节点/3、部署kubelet组件.md)
-  - [Deploy kube-proxy Component](deploydoc/七、部署Worker节点/4、部署kube-proxy组件.md)
-  - [Deploy docker runtime (for reference only)](deploydoc/七、部署Worker节点/部署docker运行时(仅作参考).md)
+- [Deploy Worker Nodes](deploydoc-en/7-Deploy-Worker-Node)
+  - [Deployment Environment Description](deploydoc-en/7-Deploy-Worker-Node/1-Deployment-Environment-Description.md)
+  - [Deploy containerd](deploydoc-en/7-Deploy-Worker-Node/2-Deploy-containerd.md)
+  - [Deploy kubelet Component](deploydoc-en/7-Deploy-Worker-Node/3-Deploy-kubelet.md)
+  - [Deploy kube-proxy Component](deploydoc-en/7-Deploy-Worker-Node/4-Deploy-kube-proxy.md)
+  - [Deploy docker runtime (for reference only)](deploydoc-en/7-Deploy-Worker-Node/Deploy-docker-runtime-(reference-only).md)
 
 ## Chapter 8: Deploy Network Plugins
-- [Deploy Network Plugins](deploydoc/八、部署网络插件)
-  - [Deploy Network Plugins](deploydoc/八、部署网络插件/八、部署网络插件.md)
-  - [Deploy Cilium as a replacement for kube-proxy](deploydoc/八、部署网络插件/部署Cilium替代kube-proxy.md)
+- [Deploy Network Plugins](deploydoc-en/8-Deploy-Network-Plugins)
+  - [Deploy Calico Network Plugin](deploydoc-en/8-Deploy-Network-Plugins/1-Deploy-Calico-Network-Plugin.md)
+  - [Deploy Cilium as a replacement for kube-proxy](deploydoc-en/8-Deploy-Network-Plugins/2-Deploy-Cilium-to-Replace-kube-proxy.md)
 
 ## Chapter 9: Verify Cluster Status
-- [Verify Cluster Status](deploydoc/九、验证集群状态)
-  - [Verify Cluster Status](deploydoc/九、验证集群状态/验证集群状态.md)
+- [Verify Cluster Status](deploydoc-en/9-Verify-Cluster-Status)
+  - [Verify Cluster Status](deploydoc-en/9-Verify-Cluster-Status/Verify-Cluster-Status.md)
 
 ## Chapter 10: Deploy Cluster Plugins
-- [Deploy Cluster Plugins](deploydoc/十、部署集群插件)
-  - [Deploy Coredns Plugin](deploydoc/十、部署集群插件/1、部署Coredns插件.md)
-  - [Deploy Dashboard Plugin](deploydoc/十、部署集群插件/2、部署Dashboard插件.md)
+- [Deploy Cluster Plugins](deploydoc-en/10-Deploy-Cluster-Plugins)
+  - [Deploy Coredns Plugin](deploydoc-en/10-Deploy-Cluster-Plugins/1-Deploy-Coredns-Plugin.md)
+  - [Deploy Dashboard Plugin](deploydoc-en/10-Deploy-Cluster-Plugins/2-Deploy-Dashboard-Plugin.md)
 
 ## Statement
 This project is for learning and communication purposes only. Please do not use it for commercial purposes, and indicate the address of this project when reprinting.<br>
